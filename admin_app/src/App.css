@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login{
+    border-radius:5px;
+}
+
+.drop{
+    border-radius: 5px;
+}
+
+/* .tables{
+    height: 91vh;
+} */
+
+.tab{
+    border-radius: 5px;
+}
+
+.image{
+    border-radius: 10px;
+}
